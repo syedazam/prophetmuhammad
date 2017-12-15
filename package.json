@@ -1,0 +1,19 @@
+{
+  "name": "pm",
+  "version": "1.0.0",
+  "description": "Prophet Muhammad Info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedazam/prophetmuhammad.git"
+  },
+  "author": "Syed Ameen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedazam/prophetmuhammad/issues"
+  },
+  "homepage": "https://github.com/syedazam/prophetmuhammad#readme"
+}
